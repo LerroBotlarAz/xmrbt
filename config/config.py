@@ -39,7 +39,7 @@ HEROKU_API_KEY = "HRKU-d7849f0d-bd49-417a-9a6f-1453c10ad58a"
 
 BOT_ID = getenv("BOT_ID")
 
-HEROKU_APP_NAME = "xezermusicrobot"
+HEROKU_APP_NAME = "xezermusicbot"
 
 UPSTREAM_REPO = "UPSTREAM_REPO"
 
